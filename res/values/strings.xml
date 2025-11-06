@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Event Explorer</string>
+    <string name="filter_location_label">Location:</string>
+    <string name="all_label">All</string>
+    <string name="music">Music</string>
+    <string name="sports">Sports</string>
+    <string name="workshop">Workshop</string>
+    <string name="exhibition">Exhibition</string>
+    <string name="buy_tickets">Buy Tickets</string>
+    <string name="tickets_label">Tickets</string>
+    <string name="back">Back</string>
+</resources>
